@@ -102,7 +102,7 @@ const NavBar = ({ id }) => {
             </div>
                    {/* mobile view */}
 
-
+                  
               <Sidebar open={open} setOpen={setOpen} />
 
       </header>
