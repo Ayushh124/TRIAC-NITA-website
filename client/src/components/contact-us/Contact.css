@@ -41,7 +41,7 @@
 
 
 .contact {
-    background-color: var(--section-bgd);
+    /* background-color: var(--section-bgd); */
     color: var(--nav-grey);
     width: 100%;
   }

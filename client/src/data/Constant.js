@@ -1,64 +1,58 @@
 
 export default {
-    aboutusPara1: `Welcome to TRIAC (Transformative Research and Instrumentation 
-        Advancement Club) at NIT Agartala! We are passionate about research
-         and advancing instrumentation. Our club is committed to providing 
-         a dynamic platform for students to enhance their practical skills
-          and delve into cutting-edge research.`,
-    aboutusPara2: `Through workshops, seminars,
-    and hands-on projects, TRIAC empowers members to explore emerging
-     technologies and make meaningful contributions to the field of 
-     instrumentation. Join us in this exciting journey of discovery
-      and innovation, where curiosity meets creativity. Whether you're
-       an aspiring researcher or a tech enthusiast, TRIAC invites you to
-        be part of our innovative community. Embrace the spirit of exploration
-         and join TRIAC today!`,
-    ContactUsPara: `Like what you see in my portfolio? Let's chat about potential
-                                 freelancing gigs, projects, or anything else where I can lend
-                                  a hand. Drop me a line via the links provided or fill out the
-                                   form below. Excited to connect!`
+    aboutusPara1: `Welcome to TRIAC (Transformative Research and Instrumentation Advancement Club) at NIT Agartala! We are dedicated to advancing research and instrumentation. Our club offers a vibrant platform for students to enhance their practical skills and engage with groundbreaking research.`,
+    aboutusPara2: `Through interactive workshops, seminars, and hands-on projects, TRIAC empowers members to explore emerging technologies and make significant contributions to the field of instrumentation. Join us on this exciting journey of discovery and innovation, where curiosity meets creativity. Whether you're an aspiring researcher or a tech enthusiast, TRIAC invites you to be part of our innovative community. Embrace the spirit of exploration and join TRIAC today!`,
+    ContactUsPara: `Curious about TRIAC's offerings? Let's explore potential collaborations, workshops, or projects where we can innovate together. Connect with us through the links provided or fill out the form below. We're eager to hear from you and explore new possibilities!`
 }
+
 
 export const clubActivities = [
     {
-        title: "Robotics",
-        description: "lorem text is great way to express gratitude toward developers :)"
+        title: "Electronics Projects",
+        description: "Designing and building innovative electronics projects using microcontrollers and sensors."
     },
     {
-        title: "Artificial Intelligence",
-        description: "Exploring the world of AI, machine learning, and neural networks."
+        title: "Embedded Systems",
+        description: "Developing real-time embedded systems for various applications in engineering and technology."
     },
     {
-        title: "Web Development",
-        description: "Learning to build and design responsive websites using modern technologies."
+        title: "IoT Development",
+        description: "Creating smart devices and systems with Internet of Things technology."
     },
     {
-        title: "App Development",
-        description: "Creating mobile applications for Android and iOS platforms."
+        title: "Workshops & Seminars",
+        description: "Organizing events to enhance technical skills and knowledge in electronics and engineering."
     },
     {
-        title: "Game Development",
-        description: "Designing and developing interactive games using various game engines."
+        title: "Alumni Meet",
+        description: "Connecting with former members to share experiences and insights in the field of technology."
     },
     {
-        title: "Cyber Security",
-        description: "Understanding the principles of securing systems and networks from cyber threats."
+        title: "Circuit Design",
+        description: "Learning to design and simulate electronic circuits using industry-standard software."
     },
     {
-        title: "Data Science",
-        description: "Analyzing and interpreting complex data to help make better decisions."
+        title: "Tech Talks",
+        description: "Hosting discussions on the latest trends and advancements in electronics technology."
     },
     {
-        title: "Electronics",
-        description: "Hands-on projects involving circuits, microcontrollers, and other electronic components."
+        title: "Hackathons",
+        description: "Participating in and organizing coding and electronics hackathons to foster innovation and creativity."
     },
     {
-        title: "Cloud Computing",
-        description: "Learning about cloud services, architecture, and deployment models."
+        title: "Sustainable Engineering",
+        description: "Exploring eco-friendly engineering solutions and projects."
     },
     {
-        title: "Blockchain",
-        description: "Exploring the decentralized world of blockchain technology and cryptocurrencies."
+        title: "Mentorship Programs",
+        description: "Providing guidance and support to members working on technical projects."
+    },
+    {
+        title: "3D Printing and Prototyping",
+        description: "Utilizing 3D printing technology to create prototypes and models for engineering projects."
+    },
+    {
+        title: "Control Systems",
+        description: "Studying and implementing control systems for automation and robotics applications."
     }
 ];
-
