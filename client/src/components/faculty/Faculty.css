@@ -1,0 +1,125 @@
+/* Faculty Section Styling */
+.faculty-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #0e0e0e;
+  color: #ffffff;
+  text-align: center;
+  padding: 50px 0;
+}
+
+.faculty-title {
+  font-size: 2.5rem;
+  color: #00f0ff;
+  margin-bottom: 40px;
+}
+
+.faculty-cards {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); /* Default 1 column */
+  gap: 1.5rem; /* Reduced gap for smaller space between cards */
+  justify-items: center;
+  width: 100%;
+  padding: 0em 1.5rem;
+}
+
+@media (min-width: 640px) { /* Small screens (>= 640px) */
+  .faculty-cards {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns for small screens */
+    gap: 20px; /* Adjust the gap for small screens */
+  }
+}
+
+@media (min-width: 768px) { /* Medium screens (>= 768px) */
+  .faculty-cards {
+    grid-template-columns: repeat(3, 1fr); /* 3 columns for medium and larger screens */
+    gap: 25px; /* Adjust the gap for medium screens */
+  }
+}
+
+.faculty-card {
+  background-color: #1a1a1a;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 95%;
+  padding: 15px; /* Reduced padding for a more compact card design */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s;
+}
+
+.faculty-card:hover {
+  transform: scale(1.05);
+}
+
+.faculty-image {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.faculty-info {
+  padding: 10px 0; /* Reduced padding between the image and text */
+}
+
+.faculty-name {
+  font-size: 1.4rem;
+  color: #00f0ff;
+  margin-bottom: 5px; /* Reduced margin for tighter spacing */
+  font-weight: 600;
+}
+
+.faculty-position {
+  font-size: 1.1rem;
+  color: #cccccc;
+  margin-top: 5px;
+}
+
+.faculty-department {
+  font-size: 1rem;
+  color: #aaaaaa;
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.faculty-email {
+  font-size: 1rem;
+  color: #3498db;
+  margin-top: 5px; /* Reduced margin for more compact layout */
+}
+
+.email-link {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.email-link:hover {
+  text-decoration: underline;
+}
+
+/* Loader Styling */
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

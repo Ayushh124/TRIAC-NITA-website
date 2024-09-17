@@ -1,0 +1,53 @@
+
+/* 404 Page Styling */
+.notfound-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #0e0e0e;
+    color: #ffffff;
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .notfound-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .notfound-title {
+    font-size: 10rem;
+    color: #00f0ff;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .notfound-subtitle {
+    font-size: 2.5rem;
+    color: #cccccc;
+    margin-bottom: 20px;
+  }
+  
+  .notfound-text {
+    font-size: 1.2rem;
+    color: #aaaaaa;
+    margin-bottom: 40px;
+  }
+  
+  .home-button {
+    background-color: #00f0ff;
+    color: #0e0e0e;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .home-button:hover {
+    background-color: #00d0ff;
+  }
+  

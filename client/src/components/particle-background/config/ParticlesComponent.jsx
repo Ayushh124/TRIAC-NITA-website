@@ -104,7 +104,7 @@ const ParticlesComponent = (props) => {
 
 
   return <Particles 
-  className="overflow-hidden" 
+  className="overflow-hidden w-full h-full" 
   id={props.id} init={particlesLoaded} options={options} />; 
 };
 

@@ -42,7 +42,7 @@ function Sidebar({ open, setOpen }) {
 
   return (
     <>
-      {open && <div className="fixed inset-0 z-[9999] bg-black opacity-50" onClick={() => setOpen(false)}></div>}
+      {open && <div className="fixed inset-0 z-[9999] bg-black opacity-10" onClick={() => setOpen(false)}></div>}
       <div
         ref={sidebarRef}
         className={`fixed top-0 left-0 z-[10000] bg-gray-950 cursor-pointer min-h-screen ${

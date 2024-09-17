@@ -44,20 +44,20 @@ const navbaritems = [
         scrollId: null,
         icon: Images
       },
-      {
-        id: 7,
-        name: "About Us",
-        url: "#about-us",
-        scrollId: "about-us",
-        icon: Gem
-      },
-      {
-        id: 8,
-        name: "Contact Us",
-        url: "#contact-us",
-        scrollId: "contact-us",
-        icon: SquareUser
-      },
+      // {
+      //   id: 7,
+      //   name: "About Us",
+      //   url: "#about-us",
+      //   scrollId: "about-us",
+      //   icon: Gem
+      // },
+      // {
+      //   id: 8,
+      //   name: "Contact Us",
+      //   url: "#contact-us",
+      //   scrollId: "contact-us",
+      //   icon: SquareUser
+      // },
 
       {
         id: 9,

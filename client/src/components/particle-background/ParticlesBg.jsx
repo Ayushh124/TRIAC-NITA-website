@@ -4,7 +4,7 @@ import './particles.css'
 
 function ParticlesBg() {
   return (
-   <div className='h-full w-full bg-transparent z-[-100]'>
+   <div className='h-full w-full bg-transparent'>
     
     <ParticlesComponent
     id= "particles" />

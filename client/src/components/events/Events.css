@@ -1,0 +1,81 @@
+/* Events Section Styling */
+.events-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #0e0e0e;
+  color: #ffffff;
+  text-align: center;
+  padding: 50px 0; /* Adds spacing between the header and content */
+}
+
+.events-title {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  color: #00f0ff; /* Color matching your home page */
+}
+
+.events-cards {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); /* Default to 1 column on small screens */
+  gap: 1.5rem; /* Adjusts the spacing between cards */
+  margin-top: 20px;
+  padding: 0em 1.5rem;
+  justify-items: center; /* Centers cards horizontally */
+  width: 100%;
+}
+
+@media (min-width: 640px) { /* Small screens */
+  .events-cards {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns on small screens */
+    gap: 20px; /* Reduce gap slightly */
+  }
+}
+
+@media (min-width: 768px) { /* Medium screens */
+  .events-cards {
+    grid-template-columns: repeat(3, 1fr); /* 3 columns on medium screens */
+    gap: 25px; /* Adjust gap */
+  }
+}
+
+.event-card {
+  background-color: #1a1a1a;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 95%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.event-card:hover {
+  transform: scale(1.05);
+}
+
+.event-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.event-info {
+  padding: 15px;
+}
+
+.event-name {
+  font-size: 1.3rem;
+  color: #00f0ff; /* Text color matching your theme */
+  margin-bottom: 10px;
+}
+
+.event-date {
+  font-size: 1rem;
+  color: #aaaaaa;
+  margin-bottom: 10px;
+}
+
+.event-description {
+  font-size: 0.9rem;
+  color: #cccccc;
+}

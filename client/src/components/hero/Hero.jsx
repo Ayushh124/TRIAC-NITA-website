@@ -3,15 +3,12 @@ import ParticlesBg from '../particle-background/ParticlesBg'
 
 function Hero({id}) {
   return (
-    <div id= {id} className='w-full h-screen overflow-hidden'>
+    <div id= {id} className='w-full h-full border border-black overflow-hidden'>
       <section className=" text-white relative ">
        
   <div className="mx-auto w-full min-h-screen z-[100]
      max-w-screen-xl px-4 py-20 flex h-screen items-center">
 
-  <div className='w-full h-full absolute inset-0'>
-        <ParticlesBg/>
-        </div>
     <div className="mx-auto max-w-3xl text-center">
       <h1
         className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600
@@ -28,7 +25,7 @@ function Hero({id}) {
 
       <div className="mt-8 flex flex-wrap justify-center gap-4">
         <a
-          className="block z-50 w-full rounded border border-blue-600 cursor-pointer
+          className="block z-0 w-full rounded border border-blue-600 cursor-pointer
            bg-transparent px-12 py-3 text-sm font-medium
             text-white hover:bg-gray-950 transition ease-linear duration-300 hover:text-white
              focus:outline-none focus:ring active:text-opacity-75 sm:w-auto"

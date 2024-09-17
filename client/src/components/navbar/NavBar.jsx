@@ -18,7 +18,7 @@ const NavBar = ({ id }) => {
   }
 
   return (
-    <div id={id} className='w-full text-white' >
+    <div id={id} className='w-full text-white relative' >
 
       <header className=" flex flex-col items-center justify-center gap-6">
        

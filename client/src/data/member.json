@@ -1,6 +1,44 @@
 
 [
     {
+        "timestamp": "2024-03-21T16:43:52.196Z",
+        "fullName": "Ashish Kumar",
+        "enrollmentNumber": "21UEI009",
+        "roleInTriac": "President",
+        "yourPhotoAccessibleDriveLink": "https://drive.google.com/file/d/1L0m9EM-VYLWn5PYNljWsuS__k4lyEyQD/view?usp=sharing",
+        "linkedinProfileUrlPleaseKeepYourActive": "https://www.linkedin.com/in/ashish-kumar-65b12b233/",
+        "instagramProfileUrl": "https://www.instagram.com/i_am_not_ashish/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D%2F",
+        "githubProfileUrl": "https://github.com/i-am-not-ashish"
+    },
+    {
+        "timestamp": "2024-03-21T15:34:43.766Z",
+        "fullName": "Golu Kumar ",
+        "enrollmentNumber": "21UEI008",
+        "roleInTriac": "Vice President ( Core)",
+        "yourPhotoAccessibleDriveLink": "https://drive.google.com/file/d/1FYJKVeTQOquWGJzZQXe3JHOf0Ek2-lE4/view?usp=drivesdk",
+        "linkedinProfileUrlPleaseKeepYourActive": "https://www.linkedin.com/in/golu-kumar-a33862211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "instagramProfileUrl": "https://www.linkedin.com/in/golu-kumar-a33862211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "githubProfileUrl": "https://github.com/golu242"
+    },
+    {
+        "timestamp": "2024-03-21T12:18:38.813Z",
+        "fullName": "Anushka Acharjee ",
+        "enrollmentNumber": "21UEI003",
+        "roleInTriac": "Vice President (Management)",
+        "yourPhotoAccessibleDriveLink": "https://drive.google.com/file/d/1TbxrtP7mLFOX7U_Eitf0m06w-MZfvVvr/view?usp=drivesdk",
+        "linkedinProfileUrlPleaseKeepYourActive": "https://www.linkedin.com/in/anushka-acharjee-57b6bb255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "instagramProfileUrl": "Nil"
+    },
+    {
+        "timestamp": "2024-03-21T12:18:38.813Z",
+        "fullName": "Ankit kumar",
+        "enrollmentNumber": "21UEI020",
+        "roleInTriac": "Website Handling",
+        "yourPhotoAccessibleDriveLink": "",
+        "linkedinProfileUrlPleaseKeepYourActive": "https://www.linkedin.com/in/k-ankit/",
+        "instagramProfileUrl": "https://www.instagram.com/_k.ankit__/"
+    },
+    {
         "timestamp": "2024-03-21T05:58:52.258Z",
         "fullName": "Daliya Debbarma ",
         "enrollmentNumber": "22UEI038",
@@ -18,15 +56,7 @@
         "linkedinProfileUrlPleaseKeepYourActive": "https://www.linkedin.com/in/diganta-das-662589229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
         "instagramProfileUrl": "https://www.instagram.com/invites/contact/?i=yvizxvv8i0kq&utm_content=cj703ml "
     },
-    {
-        "timestamp": "2024-03-21T12:18:38.813Z",
-        "fullName": "Anushka Acharjee ",
-        "enrollmentNumber": "21UEI003",
-        "roleInTriac": "Vice President (Management)",
-        "yourPhotoAccessibleDriveLink": "https://drive.google.com/file/d/1TbxrtP7mLFOX7U_Eitf0m06w-MZfvVvr/view?usp=drivesdk",
-        "linkedinProfileUrlPleaseKeepYourActive": "https://www.linkedin.com/in/anushka-acharjee-57b6bb255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "instagramProfileUrl": "Nil"
-    },
+  
     {
         "timestamp": "2024-03-21T12:19:10.598Z",
         "fullName": "Tapalabdha Roy",
@@ -159,16 +189,7 @@
         "instagramProfileUrl": "https://www.instagram.com/_shayan_majumder_?igsh=MXR1OWk4eTQ1Zm5ueQ%3D%3D&utm_source=qr",
         "githubProfileUrl": "NA"
     },
-    {
-        "timestamp": "2024-03-21T15:34:43.766Z",
-        "fullName": "Golu Kumar ",
-        "enrollmentNumber": "21UEI008",
-        "roleInTriac": "Vice President ( Core)",
-        "yourPhotoAccessibleDriveLink": "https://drive.google.com/file/d/1FYJKVeTQOquWGJzZQXe3JHOf0Ek2-lE4/view?usp=drivesdk",
-        "linkedinProfileUrlPleaseKeepYourActive": "https://www.linkedin.com/in/golu-kumar-a33862211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "instagramProfileUrl": "https://www.linkedin.com/in/golu-kumar-a33862211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "githubProfileUrl": "https://github.com/golu242"
-    },
+   
     {
         "timestamp": "2024-03-21T15:41:00.553Z",
         "fullName": "Muskan Gupta",
@@ -225,16 +246,7 @@
         "linkedinProfileUrlPleaseKeepYourActive": "https://www.linkedin.com/in/ankit-kumar-b06863228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "instagramProfileUrl": "https://www.instagram.com/kr_ankit_27?igsh=MWlhaTNvOG5qNXNkNg=="
     },
-    {
-        "timestamp": "2024-03-21T16:43:52.196Z",
-        "fullName": "Ashish Kumar",
-        "enrollmentNumber": "21UEI009",
-        "roleInTriac": "President",
-        "yourPhotoAccessibleDriveLink": "https://drive.google.com/file/d/1L0m9EM-VYLWn5PYNljWsuS__k4lyEyQD/view?usp=sharing",
-        "linkedinProfileUrlPleaseKeepYourActive": "https://www.linkedin.com/in/ashish-kumar-65b12b233/",
-        "instagramProfileUrl": "https://www.instagram.com/i_am_not_ashish/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D%2F",
-        "githubProfileUrl": "https://github.com/i-am-not-ashish"
-    },
+    
     {
         "timestamp": "2024-03-21T17:36:03.595Z",
         "fullName": "Snigdha Shil ",

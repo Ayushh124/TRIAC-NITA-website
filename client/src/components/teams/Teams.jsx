@@ -71,10 +71,7 @@ function Teams({id}) {
             />
           ))
         }
-          
         
-
-
         </Slider>
       </div>
     </div>

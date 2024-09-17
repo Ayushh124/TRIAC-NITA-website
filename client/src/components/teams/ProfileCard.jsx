@@ -46,7 +46,7 @@ const Card = ({item}) => {
              
                 <InstagramIcon size={30} className=" bg-pink-700 rounded text-white p-1" /> </span>
               <span> <GithubIcon size={30} className="bg-black rounded text-white p-1"/> </span>
-              <span> <Twitter size={30} className="bg-[#645be6] rounded text-white p-1" /> </span>
+              <span> <Linkedin size={30} className="bg-[#645be6] rounded text-white p-1" /> </span>
           </div>
           
         </div>
